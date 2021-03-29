@@ -25,6 +25,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Collection;
 import java.util.Random;
+import java.util.Scanner;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
@@ -348,7 +349,14 @@ public class Learner {
 			System.err.println("Invalid number of parameters");
 			System.exit(-1);
 		}
-		
+
+		File properties_file = new File(args[0]);
+		Scanner sc = new Scanner(properties_file);
+		while(sc.hasNext()){
+			System.out.println(sc.nextLine());
+		}
+		sc.close();
+
 		LearningConfig config = new LearningConfig(args[0]);
 	
 		Learner learner = new Learner(config);

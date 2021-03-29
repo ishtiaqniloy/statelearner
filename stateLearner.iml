@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_9">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-core:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-api:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-core:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-util:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-commons-smartcollections:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:2.0.3" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-counterexamples:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-acex:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-basic-eqtests:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-simulator:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-cache:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-incremental:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-lstar-generic:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-algorithm-features:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-dhc:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-ttt:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-kearns-vazirani:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: de.learnlib:learnlib-discrimination-tree:0.12.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-commons-dotutil:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: net.automatalib:automata-commons-util:0.6.0" level="project" />
+  </component>
+</module>

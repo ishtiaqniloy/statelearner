@@ -1,0 +1,54 @@
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | A / ε | C]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | B / ε | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | C / ε | 0]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [A | A / C | C]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [A | B / C | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [A | C / C | 0]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B | A / E | D]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B | B / E | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B | C / E | 1]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [C | A / 0 | D]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [C | B / 0 | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [C | C / 0 | 1]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B A | A / E D | D]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B A | B / E D | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B A | C / E D | 1]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B B | A / E E | C]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B B | B / E E | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B B | C / E E | 0]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B C | A / E 1 | D]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B C | B / E 1 | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B C | C / E 1 | 1]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | A / ε | C]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | B / ε | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | C / ε | 0]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B | A / E | D]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B | B / E | E]
+Mar 29, 2021 12:04:12 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [B | C / E | 1]
