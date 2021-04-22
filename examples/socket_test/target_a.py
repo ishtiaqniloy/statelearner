@@ -34,6 +34,7 @@ while 1:
   if cmd == "RESET":
     state = INIT_STATE
     response = "DONE"
+  
   elif cmd == "A":
     if state == 0:
       response = "C"

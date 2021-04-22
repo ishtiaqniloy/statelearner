@@ -80,7 +80,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -98,7 +98,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -272,7 +272,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -305,10 +305,10 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -317,13 +317,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  C
 Sending response:  1
@@ -338,10 +338,10 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -359,10 +359,10 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -377,7 +377,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -431,7 +431,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -503,19 +503,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -536,7 +536,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
@@ -551,25 +551,25 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -596,13 +596,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  C
 Sending response:  1
@@ -620,7 +620,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -641,16 +641,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -680,13 +680,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -785,10 +785,10 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  A
 Sending response:  D
@@ -800,16 +800,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
@@ -848,19 +848,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -902,16 +902,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  RESET
 Sending response:  DONE
@@ -929,7 +929,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
@@ -953,7 +953,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -968,16 +968,16 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
@@ -1070,7 +1070,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -1106,16 +1106,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -1154,7 +1154,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -1166,28 +1166,28 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
@@ -1232,19 +1232,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
@@ -1262,13 +1262,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
@@ -1280,13 +1280,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  C
 Sending response:  1
@@ -1328,16 +1328,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -1358,7 +1358,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -1367,16 +1367,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
@@ -1385,7 +1385,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  RESET
 Sending response:  DONE
@@ -1394,13 +1394,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  A
 Sending response:  D
@@ -1457,7 +1457,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
@@ -1529,19 +1529,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
@@ -1553,16 +1553,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
@@ -1574,16 +1574,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -1628,7 +1628,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -1646,19 +1646,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -1772,7 +1772,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  A
 Sending response:  D
@@ -1787,22 +1787,22 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  C
 Sending response:  1
@@ -1814,22 +1814,22 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -1847,19 +1847,19 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
@@ -1886,10 +1886,10 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -1949,16 +1949,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  RESET
 Sending response:  DONE
@@ -1967,7 +1967,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
@@ -1979,10 +1979,10 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -2003,13 +2003,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2048,10 +2048,10 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2069,16 +2069,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  A
 Sending response:  D
@@ -2090,16 +2090,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
@@ -2111,31 +2111,31 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  RESET
 Sending response:  DONE
@@ -2144,16 +2144,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  RESET
 Sending response:  DONE
@@ -2201,7 +2201,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2213,13 +2213,13 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  RESET
 Sending response:  DONE
@@ -2237,7 +2237,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
@@ -2252,7 +2252,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -2321,7 +2321,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -2345,7 +2345,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2357,16 +2357,16 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  A
 Sending response:  D
@@ -2381,13 +2381,13 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
@@ -2399,19 +2399,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -2456,25 +2456,25 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2507,7 +2507,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -2525,19 +2525,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  RESET
 Sending response:  DONE
@@ -2564,19 +2564,19 @@ Received command:  C
 Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  B
 Sending response:  E
@@ -2591,28 +2591,28 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
@@ -2636,10 +2636,10 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  C
-Sending response:  0
+Sending response:  1
 
 Received command:  C
 Sending response:  1
@@ -2678,7 +2678,7 @@ Received command:  C
 Sending response:  0
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2687,7 +2687,7 @@ Received command:  B
 Sending response:  E
 
 Received command:  C
-Sending response:  1
+Sending response:  0
 
 Received command:  B
 Sending response:  E
@@ -2759,16 +2759,16 @@ Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  A
-Sending response:  D
+Sending response:  C
 
 Received command:  B
 Sending response:  E
 
 Received command:  A
-Sending response:  C
+Sending response:  D
 
 Received command:  B
 Sending response:  E
