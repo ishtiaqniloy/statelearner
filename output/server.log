@@ -4,2777 +4,7745 @@
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_failed
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  common_procedure_requested
+Sending response:  3
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  lower_layer_failure
+Sending response:  5
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  implicit_detach
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
 
+Received command:  attach_procedure_success
+Sending response:  0
+
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_requested
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  A
-Sending response:  C
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
-Sending response:  0
-
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
+
+Received command:  common_procedure_requested
+Sending response:  3
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  4
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  implicit_detach
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
+Received command:  common_procedure_requested
+Sending response:  0
+
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  RESET
+Sending response:  DONE
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
+Received command:  detach_accepted
+Sending response:  4
+
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  5
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  B
-Sending response:  E
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  implicit_detach
+Sending response:  0
+
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  network_initiated_detach_requested
+Sending response:  5
+
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  C
+Received command:  common_procedure_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
+
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
+
+Received command:  RESET
+Sending response:  DONE
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  C
+Received command:  detach_accepted
+Sending response:  4
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
+
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
-
-Received command:  A
-Sending response:  C
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  A
-Sending response:  C
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
+
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
-
-Received command:  B
-Sending response:  E
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
-
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
-
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  4
+
+Received command:  detach_accepted
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  A
-Sending response:  C
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  A
-Sending response:  C
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
+
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
-
-Received command:  A
-Sending response:  D
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  3
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
-
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  1
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
-
-Received command:  B
-Sending response:  E
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
-
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  C
-Sending response:  0
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  C
-Sending response:  1
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
-Sending response:  0
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  C
-Sending response:  1
-
-Received command:  C
-Sending response:  1
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  C
-Sending response:  1
+Received command:  tau_rejected
+Sending response:  5
+
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  A
-Sending response:  C
-
-Received command:  B
-Sending response:  E
 
-Received command:  C
-Sending response:  1
-
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_success
+Sending response:  3
+
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
-
-Received command:  A
-Sending response:  C
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  A
-Sending response:  C
-
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  C
-Sending response:  1
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
+Received command:  common_procedure_requested
+Sending response:  3
+
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
-
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_requested
+Sending response:  2
+
+Received command:  common_procedure_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  0
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
-
-Received command:  B
-Sending response:  E
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  C
-Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  C
-Sending response:  1
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
-
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  3
 
-Received command:  C
-Sending response:  0
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
-Sending response:  0
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  0
+Received command:  common_procedure_failed
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
-
-Received command:  B
-Sending response:  E
 
-Received command:  B
-Sending response:  E
-
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
-
-Received command:  A
-Sending response:  C
-
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  1
+
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  implicit_detach
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  A
-Sending response:  C
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
+
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
-
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
-
-Received command:  B
-Sending response:  E
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  C
-Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  B
-Sending response:  E
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
+
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
-Sending response:  0
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  1
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  1
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
-
-Received command:  A
-Sending response:  C
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
+
+Received command:  tau_rejected
+Sending response:  5
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
-
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  0
+
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  C
+Received command:  detach_accepted
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  A
-Sending response:  D
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  ue_initiated_detach_requested
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  C
+Received command:  attach_procedure_success
 Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  attach_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_failed
 Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  ue_initiated_detach_requested
+Sending response:  4
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
+Received command:  network_initiated_detach_requested
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
+
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  4
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  B
-Sending response:  E
-
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  3
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  5
 
-Received command:  C
-Sending response:  1
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_requested
+Sending response:  2
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
+Received command:  common_procedure_success
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
 Received command:  RESET
 Sending response:  DONE
-
-Received command:  B
-Sending response:  E
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  implicit_detach
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  common_procedure_requested
+Sending response:  2
 
-Received command:  B
-Sending response:  E
+Received command:  ue_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  detach_accepted
+Sending response:  0
 
-Received command:  C
+Received command:  tau_rejected
 Sending response:  0
 
+Received command:  common_procedure_success
+Sending response:  3
+
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  B
-Sending response:  E
+Received command:  tau_rejected
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_failed
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  attach_procedure_success
+Sending response:  1
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  C
-Sending response:  1
+Received command:  network_initiated_detach_requested
+Sending response:  5
 
 Received command:  RESET
 Sending response:  DONE
 
-Received command:  C
+Received command:  lower_layer_failure
 Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  A
-Sending response:  C
+Received command:  common_procedure_success
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
-Received command:  A
-Sending response:  D
+Received command:  lower_layer_failure
+Sending response:  0
 
-Received command:  B
-Sending response:  E
+Received command:  network_initiated_detach_requested
+Sending response:  0
 
 Received command:  
 Breaking...
 
 
-cmd_count:  925
+cmd_count:  2581

@@ -1,54 +1,900 @@
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [ε | A / ε | C]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [ε | B / ε | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [ε | C / ε | 0]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [A | A / C | C]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [A | B / C | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [A | C / C | 0]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B | A / E | D]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B | B / E | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B | C / E | 1]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [C | A / 0 | D]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [C | B / 0 | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [C | C / 0 | 1]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B A | A / E D | D]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B A | B / E D | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B A | C / E D | 1]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B B | A / E E | C]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B B | B / E E | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B B | C / E E | 0]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B C | A / E 1 | D]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B C | B / E 1 | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B C | C / E 1 | 1]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [ε | A / ε | C]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [ε | B / ε | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [ε | C / ε | 0]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B | A / E | D]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B | B / E | E]
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logQuery
-INFO: [B | C / E | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | detach_accepted / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | lower_layer_failure / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | network_initiated_detach_requested / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | ue_initiated_detach_requested / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | tau_rejected / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | implicit_detach / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | attach_procedure_success / ε | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | common_procedure_requested / ε | 2]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | common_procedure_failed / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | common_procedure_success / ε | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [detach_accepted | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [lower_layer_failure | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [network_initiated_detach_requested | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ue_initiated_detach_requested | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [tau_rejected | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [implicit_detach | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | detach_accepted / 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | lower_layer_failure / 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | network_initiated_detach_requested / 1 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | ue_initiated_detach_requested / 1 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | tau_rejected / 1 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | implicit_detach / 1 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | attach_procedure_success / 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | common_procedure_requested / 1 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | common_procedure_failed / 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | common_procedure_success / 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | detach_accepted / 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | lower_layer_failure / 2 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | network_initiated_detach_requested / 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | ue_initiated_detach_requested / 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | tau_rejected / 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | implicit_detach / 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | attach_procedure_success / 2 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | common_procedure_requested / 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | common_procedure_failed / 2 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | common_procedure_success / 2 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_failed | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | detach_accepted / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | lower_layer_failure / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | network_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | ue_initiated_detach_requested / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | tau_rejected / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | implicit_detach / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | attach_procedure_success / 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | common_procedure_requested / 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | common_procedure_failed / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_success | common_procedure_success / 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | detach_accepted / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | lower_layer_failure / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | network_initiated_detach_requested / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | ue_initiated_detach_requested / 1 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | tau_rejected / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | implicit_detach / 1 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | attach_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | common_procedure_requested / 1 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | common_procedure_failed / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success detach_accepted | common_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | detach_accepted / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | lower_layer_failure / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | network_initiated_detach_requested / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | ue_initiated_detach_requested / 1 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | tau_rejected / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | implicit_detach / 1 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | attach_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | common_procedure_requested / 1 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | common_procedure_failed / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success lower_layer_failure | common_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | detach_accepted / 1 5 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | lower_layer_failure / 1 5 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | network_initiated_detach_requested / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | ue_initiated_detach_requested / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | tau_rejected / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | implicit_detach / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | attach_procedure_success / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | common_procedure_requested / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | common_procedure_failed / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | common_procedure_success / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | detach_accepted / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | lower_layer_failure / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | network_initiated_detach_requested / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | ue_initiated_detach_requested / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | tau_rejected / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | implicit_detach / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | attach_procedure_success / 1 4 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | common_procedure_requested / 1 4 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | common_procedure_failed / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success ue_initiated_detach_requested | common_procedure_success / 1 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | detach_accepted / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | lower_layer_failure / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | network_initiated_detach_requested / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | ue_initiated_detach_requested / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | tau_rejected / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | implicit_detach / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | attach_procedure_success / 1 5 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | common_procedure_requested / 1 5 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | common_procedure_failed / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success tau_rejected | common_procedure_success / 1 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | detach_accepted / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | lower_layer_failure / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | network_initiated_detach_requested / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | ue_initiated_detach_requested / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | tau_rejected / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | implicit_detach / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | attach_procedure_success / 1 1 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | common_procedure_requested / 1 1 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | common_procedure_failed / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success implicit_detach | common_procedure_success / 1 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | detach_accepted / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | lower_layer_failure / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | network_initiated_detach_requested / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | ue_initiated_detach_requested / 1 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | tau_rejected / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | implicit_detach / 1 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | attach_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | common_procedure_requested / 1 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | common_procedure_failed / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success attach_procedure_success | common_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | detach_accepted / 1 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | lower_layer_failure / 1 3 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | network_initiated_detach_requested / 1 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | ue_initiated_detach_requested / 1 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | tau_rejected / 1 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | implicit_detach / 1 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | attach_procedure_success / 1 3 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | common_procedure_requested / 1 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | common_procedure_failed / 1 3 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_requested | common_procedure_success / 1 3 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | detach_accepted / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | lower_layer_failure / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | network_initiated_detach_requested / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | ue_initiated_detach_requested / 1 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | tau_rejected / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | implicit_detach / 1 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | attach_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | common_procedure_requested / 1 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | common_procedure_failed / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_failed | common_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | detach_accepted / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | lower_layer_failure / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | network_initiated_detach_requested / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | ue_initiated_detach_requested / 1 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | tau_rejected / 1 0 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | implicit_detach / 1 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | attach_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | common_procedure_requested / 1 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | common_procedure_failed / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success common_procedure_success | common_procedure_success / 1 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | detach_accepted / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | lower_layer_failure / 2 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | network_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | ue_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | tau_rejected / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | implicit_detach / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | attach_procedure_success / 2 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | common_procedure_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | common_procedure_failed / 2 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested detach_accepted | common_procedure_success / 2 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | detach_accepted / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | lower_layer_failure / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | network_initiated_detach_requested / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | ue_initiated_detach_requested / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | tau_rejected / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | implicit_detach / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | attach_procedure_success / 2 4 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | common_procedure_requested / 2 4 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | common_procedure_failed / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested lower_layer_failure | common_procedure_success / 2 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | detach_accepted / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | lower_layer_failure / 2 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | network_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | ue_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | tau_rejected / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | implicit_detach / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | attach_procedure_success / 2 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | common_procedure_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | common_procedure_failed / 2 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested network_initiated_detach_requested | common_procedure_success / 2 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | detach_accepted / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | lower_layer_failure / 2 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | network_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | ue_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | tau_rejected / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | implicit_detach / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | attach_procedure_success / 2 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | common_procedure_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | common_procedure_failed / 2 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested ue_initiated_detach_requested | common_procedure_success / 2 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | detach_accepted / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | lower_layer_failure / 2 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | network_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | ue_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | tau_rejected / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | implicit_detach / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | attach_procedure_success / 2 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | common_procedure_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | common_procedure_failed / 2 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested tau_rejected | common_procedure_success / 2 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | detach_accepted / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | lower_layer_failure / 2 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | network_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | ue_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | tau_rejected / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | implicit_detach / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | attach_procedure_success / 2 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | common_procedure_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | common_procedure_failed / 2 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested implicit_detach | common_procedure_success / 2 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | detach_accepted / 2 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | lower_layer_failure / 2 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | network_initiated_detach_requested / 2 1 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | ue_initiated_detach_requested / 2 1 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | tau_rejected / 2 1 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | implicit_detach / 2 1 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | attach_procedure_success / 2 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | common_procedure_requested / 2 1 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | common_procedure_failed / 2 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested attach_procedure_success | common_procedure_success / 2 1 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | detach_accepted / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | lower_layer_failure / 2 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | network_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | ue_initiated_detach_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | tau_rejected / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | implicit_detach / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | attach_procedure_success / 2 0 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | common_procedure_requested / 2 0 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | common_procedure_failed / 2 0 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_requested | common_procedure_success / 2 0 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | detach_accepted / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | lower_layer_failure / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | network_initiated_detach_requested / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | ue_initiated_detach_requested / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | tau_rejected / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | implicit_detach / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | attach_procedure_success / 2 2 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | common_procedure_requested / 2 2 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | common_procedure_failed / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_failed | common_procedure_success / 2 2 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | detach_accepted / 2 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | lower_layer_failure / 2 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | network_initiated_detach_requested / 2 3 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | ue_initiated_detach_requested / 2 3 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | tau_rejected / 2 3 | 5]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | implicit_detach / 2 3 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | attach_procedure_success / 2 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | common_procedure_requested / 2 3 | 3]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | common_procedure_failed / 2 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested common_procedure_success | common_procedure_success / 2 3 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | detach_accepted / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | lower_layer_failure / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | network_initiated_detach_requested / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | ue_initiated_detach_requested / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | tau_rejected / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | implicit_detach / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | attach_procedure_success / 1 5 4 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | common_procedure_requested / 1 5 4 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | common_procedure_failed / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested detach_accepted | common_procedure_success / 1 5 4 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | detach_accepted / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | lower_layer_failure / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | network_initiated_detach_requested / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | ue_initiated_detach_requested / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | tau_rejected / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | implicit_detach / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | attach_procedure_success / 1 5 5 | 1]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | common_procedure_requested / 1 5 5 | 2]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | common_procedure_failed / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested lower_layer_failure | common_procedure_success / 1 5 5 | 0]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:22 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested network_initiated_detach_requested | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested ue_initiated_detach_requested | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested tau_rejected | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested implicit_detach | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested attach_procedure_success | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_requested | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_failed | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | detach_accepted / 1 5 0 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | lower_layer_failure / 1 5 0 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | network_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | ue_initiated_detach_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | tau_rejected / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | implicit_detach / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | attach_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | common_procedure_requested / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | common_procedure_failed / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested common_procedure_success | common_procedure_success / 1 5 0 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | detach_accepted / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | lower_layer_failure / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | network_initiated_detach_requested / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | ue_initiated_detach_requested / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | tau_rejected / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | implicit_detach / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | attach_procedure_success / ε | 1]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | common_procedure_requested / ε | 2]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | common_procedure_failed / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [ε | common_procedure_success / ε | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | detach_accepted / 1 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | lower_layer_failure / 1 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | network_initiated_detach_requested / 1 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | ue_initiated_detach_requested / 1 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | tau_rejected / 1 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | implicit_detach / 1 | 1]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | attach_procedure_success / 1 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | common_procedure_requested / 1 | 3]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | common_procedure_failed / 1 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success | common_procedure_success / 1 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | detach_accepted / 2 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | lower_layer_failure / 2 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | network_initiated_detach_requested / 2 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | ue_initiated_detach_requested / 2 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | tau_rejected / 2 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | implicit_detach / 2 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | attach_procedure_success / 2 | 1]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | common_procedure_requested / 2 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | common_procedure_failed / 2 | 2]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [common_procedure_requested | common_procedure_success / 2 | 3]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | detach_accepted / 1 5 | 4]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | lower_layer_failure / 1 5 | 5]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | network_initiated_detach_requested / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | ue_initiated_detach_requested / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | tau_rejected / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | implicit_detach / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | attach_procedure_success / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | common_procedure_requested / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | common_procedure_failed / 1 5 | 0]
+Sep 23, 2021 2:35:23 PM de.learnlib.logging.LearnLogger logQuery
+INFO: [attach_procedure_success network_initiated_detach_requested | common_procedure_success / 1 5 | 0]

@@ -1,29 +1,29 @@
-Sep 23, 2021 9:48:04 AM nl.cypherpunk.statelearner.Learner <init>
+Sep 23, 2021 2:35:21 PM nl.cypherpunk.statelearner.Learner <init>
 INFO: Using socket SUL
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:21 PM nl.cypherpunk.statelearner.Learner learn
 INFO: Using learning algorithm ExtensibleLStarMealy
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:21 PM nl.cypherpunk.statelearner.Learner learn
 INFO: Using equivalence algorithm MealyRandomWordsEQOracle
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:21 PM nl.cypherpunk.statelearner.Learner learn
 INFO: Starting learning
-Sep 23, 2021 9:48:05 AM de.learnlib.logging.LearnLogger logPhase
+Sep 23, 2021 2:35:21 PM de.learnlib.logging.LearnLogger logPhase
 INFO: Starting round 1
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
 INFO: -------------------------------------------------------
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
-INFO: Learning [ms]: 110, (0.11 s)
-Searching for counter-example [ms]: 399, (0.399 s)
-Total time [ms]: 611, (0.611 s)
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Learning [ms]: 1725, (1.725 s)
+Searching for counter-example [ms]: 165, (0.165 s)
+Total time [ms]: 1989, (1.989 s)
 
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
 INFO: Rounds []: 1
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
-INFO: membership queries to SUL [queries]: 27
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
-INFO: membership queries to cache [queries]: 27
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
+INFO: membership queries to SUL [queries]: 450
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
+INFO: membership queries to cache [queries]: 450
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
 INFO: equivalence queries to SUL [queries]: 100
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
 INFO: equivalence queries to cache [queries]: 100
-Sep 23, 2021 9:48:05 AM nl.cypherpunk.statelearner.Learner learn
-INFO: States in final hypothesis: 2
+Sep 23, 2021 2:35:23 PM nl.cypherpunk.statelearner.Learner learn
+INFO: States in final hypothesis: 4

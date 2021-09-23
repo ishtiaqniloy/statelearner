@@ -1,5 +1,9 @@
 import socket
+import sys
+import os
 
+if not os.path.isdir("output/"):
+  os.mkdir("output/")
 
 outfile = open("output/server.log", 'w')
 
