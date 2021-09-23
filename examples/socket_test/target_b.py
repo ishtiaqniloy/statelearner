@@ -1,5 +1,6 @@
 import socket
 
+
 outfile = open("output/server.log", 'w')
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
